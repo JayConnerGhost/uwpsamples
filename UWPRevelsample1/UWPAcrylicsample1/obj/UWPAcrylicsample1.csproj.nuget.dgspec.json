@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\study\\uwpsamples\\UWPAcrylicsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj": {}
+    "C:\\code\\study\\uwpsamples\\uwpsamples\\UWPRevelsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj": {}
   },
   "projects": {
-    "C:\\code\\study\\uwpsamples\\UWPAcrylicsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj": {
+    "C:\\code\\study\\uwpsamples\\uwpsamples\\UWPRevelsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\study\\uwpsamples\\UWPAcrylicsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj",
+        "projectUniqueName": "C:\\code\\study\\uwpsamples\\uwpsamples\\UWPRevelsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj",
         "projectName": "UWPAcrylicsample1",
-        "projectPath": "C:\\code\\study\\uwpsamples\\UWPAcrylicsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj",
-        "packagesPath": "C:\\Users\\kat\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\study\\uwpsamples\\UWPAcrylicsample1\\UWPAcrylicsample1\\obj\\",
+        "projectPath": "C:\\code\\study\\uwpsamples\\uwpsamples\\UWPRevelsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj",
+        "packagesPath": "C:\\Users\\jayka\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\study\\uwpsamples\\uwpsamples\\UWPRevelsample1\\UWPAcrylicsample1\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\kat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jayka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "uap10.0.17763"
@@ -40,6 +42,14 @@
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.2.9, )"
+            },
+            "Microsoft.Toolkit.Uwp": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Controls": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
