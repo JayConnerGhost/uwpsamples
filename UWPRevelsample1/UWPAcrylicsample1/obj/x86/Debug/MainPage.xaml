@@ -16,7 +16,7 @@
            
             Orientation="Horizontal" 
             Padding="4" 
-            Background="LightGray" >
+            Background="{StaticResource rainbow}" >
             <Button x:ConnectionId='4' Margin="4" Padding="4" Name ="ClickMeButon"                           >Click Me</Button>
             <TextBlock Text="First Name" VerticalAlignment="Center" Margin="4" >
             </TextBlock>

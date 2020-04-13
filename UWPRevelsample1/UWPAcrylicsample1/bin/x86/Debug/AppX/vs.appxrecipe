@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\code\study\uwpsamples\uwpsamples\UWPRevelsample1\UWPAcrylicsample1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-04-12T15:23:10.969</Modified>
+      <Modified>2020-04-13T03:09:31.052</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\code\study\uwpsamples\uwpsamples\UWPRevelsample1\UWPAcrylicsample1\bin\x86\Debug\UWPAcrylicsample1.exe">
       <PackagePath>entrypoint\UWPAcrylicsample1.exe</PackagePath>
-      <Modified>2020-04-12T15:23:08.866</Modified>
+      <Modified>2020-04-13T03:09:29.870</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jayka\.nuget\packages\colorcode.core\2.0.6\lib\netstandard1.4\ColorCode.Core.dll">
       <PackagePath>ColorCode.Core.dll</PackagePath>
@@ -142,15 +142,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\code\study\uwpsamples\uwpsamples\UWPRevelsample1\UWPAcrylicsample1\bin\x86\Debug\UWPAcrylicsample1.xr.xml">
       <PackagePath>UWPAcrylicsample1.xr.xml</PackagePath>
-      <Modified>2020-04-12T15:23:08.651</Modified>
+      <Modified>2020-04-13T03:07:22.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\code\study\uwpsamples\uwpsamples\UWPRevelsample1\UWPAcrylicsample1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-04-12T15:23:08.686</Modified>
+      <Modified>2020-04-13T03:09:29.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\code\study\uwpsamples\uwpsamples\UWPRevelsample1\UWPAcrylicsample1\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-04-12T15:23:08.686</Modified>
+      <Modified>2020-04-13T03:09:29.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -162,7 +162,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\code\study\uwpsamples\uwpsamples\UWPRevelsample1\UWPAcrylicsample1\bin\x86\Debug\Core\UWPAcrylicsample1.exe">
       <PackagePath>UWPAcrylicsample1.exe</PackagePath>
-      <Modified>2020-04-12T15:23:10.958</Modified>
+      <Modified>2020-04-13T03:09:31.042</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

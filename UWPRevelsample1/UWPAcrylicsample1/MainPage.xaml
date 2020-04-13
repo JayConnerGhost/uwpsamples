@@ -16,7 +16,7 @@
            
             Orientation="Horizontal" 
             Padding="4" 
-            Background="LightGray" >
+            Background="{StaticResource rainbow}" >
             <Button Margin="4" Padding="4" Name ="ClickMeButon" Click="ClickMeButon_Click">Click Me</Button>
             <TextBlock Text="First Name" VerticalAlignment="Center" Margin="4" >
             </TextBlock>
