@@ -12018,7 +12018,7 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "548M6mnBSJWxsIlkQHfbzoYxpiYFXZZSL00p4GHYv8PkiqFBnnT68mW5mGEsA/ch9fDO9GkPgkFQpWiXZN7mAQ==",
+      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
@@ -19019,34 +19019,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jayka\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\kat\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\study\\uwpsamples\\uwpsamples\\UWPRevelsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj",
+      "projectUniqueName": "C:\\code\\study\\uwpsamples\\UWPRevelsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj",
       "projectName": "UWPAcrylicsample1",
-      "projectPath": "C:\\code\\study\\uwpsamples\\uwpsamples\\UWPRevelsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj",
-      "packagesPath": "C:\\Users\\jayka\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\study\\uwpsamples\\uwpsamples\\UWPRevelsample1\\UWPAcrylicsample1\\obj\\",
+      "projectPath": "C:\\code\\study\\uwpsamples\\UWPRevelsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj",
+      "packagesPath": "C:\\Users\\kat\\.nuget\\packages\\",
+      "outputPath": "C:\\code\\study\\uwpsamples\\UWPRevelsample1\\UWPAcrylicsample1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\jayka\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\kat\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "uap10.0.17763"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

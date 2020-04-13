@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKjNLNLBi/Ydwn6MxrHkDNXFZpAYR5bnk+qCF3xEW+FMmWrewym1dK/+XfRp6On1QPpmOq8fNAiYAr+WzN3JIg==",
+  "dgSpecHash": "NOSBjS2bE5q9ZtBS6NsEL7RzUm2a5OKJuHmMjNSrpFVZQVD4UEIELqqDlT5hfwN2f3CScdVD91akqRYSKi/sUQ==",
   "success": true,
-  "projectFilePath": "C:\\code\\study\\uwpsamples\\UWPAcrylicsample1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj",
+  "projectFilePath": "C:\\code\\study\\uwpsamples\\UWPExtraControls1\\UWPAcrylicsample1\\UWPAcrylicsample1.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.7-rel-27913-00\\microsoft.net.native.compiler.2.2.7-rel-27913-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.9\\microsoft.net.uwpcoreruntimesdk.2.2.9.nupkg.sha512",

@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>4760a9ac-2b22-4442-babb-23773a2e9cba</PackageIdentityName>
     <PackageIdentityPublisher>CN=jayka</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>106D3BE84FB592F2F52FAAF39166ADCA9C4CBB0EFD415100B81A5FEAA19BA37F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>4760a9ac-2b22-4442-babb-23773a2e9cba_1.0.0.0_x86__gxee1cev7r5qp</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>4760a9ac-2b22-4442-babb-23773a2e9cba_gxee1cev7r5qp!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-04-11T13:22:09.232</Modified>
+      <Modified>2020-04-13T10:34:27.097</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\UWPAcrylicsample1.exe">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\bin\x86\Debug\UWPAcrylicsample1.exe">
       <PackagePath>entrypoint\UWPAcrylicsample1.exe</PackagePath>
-      <Modified>2020-04-11T13:22:08.462</Modified>
+      <Modified>2020-04-13T10:34:26.438</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,67 +46,67 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T17:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2020-04-10T21:23:19.535</Modified>
+      <Modified>2020-04-13T07:25:27.670</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2020-04-10T21:23:19.530</Modified>
+      <Modified>2020-04-13T07:25:27.658</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-04-10T21:23:19.531</Modified>
+      <Modified>2020-04-13T07:25:27.659</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-04-10T21:23:19.531</Modified>
+      <Modified>2020-04-13T07:25:27.659</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-04-10T21:23:19.532</Modified>
+      <Modified>2020-04-13T07:25:27.660</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-04-10T21:23:19.532</Modified>
+      <Modified>2020-04-13T07:25:27.662</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-04-10T21:23:19.532</Modified>
+      <Modified>2020-04-13T07:25:27.664</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-04-10T21:23:19.533</Modified>
+      <Modified>2020-04-13T07:25:27.665</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\UWPAcrylicsample1.xr.xml">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\bin\x86\Debug\UWPAcrylicsample1.xr.xml">
       <PackagePath>UWPAcrylicsample1.xr.xml</PackagePath>
-      <Modified>2020-04-11T13:22:08.237</Modified>
+      <Modified>2020-04-13T07:25:27.788</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-04-11T13:22:08.260</Modified>
+      <Modified>2020-04-13T10:34:26.237</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-04-11T13:22:08.260</Modified>
+      <Modified>2020-04-13T10:34:26.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T16:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-04-10T21:25:38.756</Modified>
+      <Modified>2020-04-13T10:34:26.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\Core\UWPAcrylicsample1.exe">
+    <AppxPackagedFile Include="C:\code\study\uwpsamples\UWPExtraControls1\UWPAcrylicsample1\bin\x86\Debug\Core\UWPAcrylicsample1.exe">
       <PackagePath>UWPAcrylicsample1.exe</PackagePath>
-      <Modified>2020-04-11T13:22:09.194</Modified>
+      <Modified>2020-04-13T10:34:27.088</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

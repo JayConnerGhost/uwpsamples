@@ -1,1 +1,1 @@
-C:\code\study\uwpsamples\uwpsamples\UWPRevelsample1\UWPAcrylicsample1\UWPAcrylicsample1.csproj;x86
+C:\code\study\uwpsamples\UWPRevelsample1\UWPAcrylicsample1\UWPAcrylicsample1.csproj;x86

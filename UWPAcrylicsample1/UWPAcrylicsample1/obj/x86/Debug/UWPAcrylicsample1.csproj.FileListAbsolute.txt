@@ -88,3 +88,9 @@ C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\obj\x86\Debug\Multi
 C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\obj\x86\Debug\ProjectArchitectures.txt
 C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885274160000000.json
 C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885310160000000.json
+C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\Microsoft.Toolkit.dll
+C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\Microsoft.Toolkit.pdb
+C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\Microsoft.Toolkit.Uwp.dll
+C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\Microsoft.Toolkit.Uwp.pdb
+C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\bin\x86\Debug\Newtonsoft.Json.dll
+C:\code\study\uwpsamples\UWPAcrylicsample1\UWPAcrylicsample1\obj\x86\Debug\Microsoft.Toolkit.Uwp.pri.xml
